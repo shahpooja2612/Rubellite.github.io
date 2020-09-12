@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="SimpleXml2.xsl"?>
+<jewellery>
+<data>
+<list>Necklace</list>
+<material>Gold, Silver</material>
+<warranty>9 months</warranty>
+</data>
+<data>
+<list>Earrings</list>
+<material>Gold, Silver, Oxodisied</material>
+<warranty>8 months</warranty>
+</data>
+<data>
+<list>Anklets</list>
+<material>Silver</material>
+<warranty>5 months</warranty>
+</data>
+<data>
+<list>Bracelets</list>
+<material>Pearl, Silver</material>
+<warranty>12 months</warranty>
+</data>
+</jewellery>

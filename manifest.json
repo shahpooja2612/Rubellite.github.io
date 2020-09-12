@@ -1,0 +1,22 @@
+{
+  "name": "Rubellite",
+  "short_name": "Ruby",
+  "description": "to buy jewellery products",
+  "lang": "en-US",
+  "start_url": "/rubellite",
+  "display": "standalone",
+  "theme_color": "#000000\t",
+  "icons": [
+    {
+      "src": "e2.jpg",
+      "sizes": "500*500",
+      "type": "jpg"
+    },
+    {
+      "src": "e1.jpg",
+      "sizes": "500*500",
+      "type": "jpg"
+    }
+  ]
+}
+
